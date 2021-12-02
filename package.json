@@ -1,0 +1,17 @@
+{
+  "name": "marko-tags-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "marko-serve ./pages"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@marko/serve": "^4.2.3",
+    "@marko/tags-api-preview": "^0.1.8"
+  }
+}
