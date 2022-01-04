@@ -1,7 +1,7 @@
 {
   "name": "marko-tags-api",
   "version": "1.0.0",
-  "description": "",
+  "description": "Marko Sandbox With Tags API installed",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -12,6 +12,6 @@
   "license": "ISC",
   "dependencies": {
     "@marko/serve": "^4.2.3",
-    "@marko/tags-api-preview": "^0.1.8"
+    "@marko/tags-api-preview": "^0.1.9"
   }
 }
